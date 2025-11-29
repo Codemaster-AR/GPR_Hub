@@ -129,4 +129,3 @@ Most Linux distributions have Python 3, but you often need to install `pip`.
 
 -----
 
-Would you like me to suggest typical Python third-party dependencies that should be included in a `requirements.txt` file for an AI-based GPR image analyzer?
