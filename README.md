@@ -6,8 +6,8 @@
 [https://github.com/Codemaster-AR/GPR_Hub_Outdated/blob/main/README.md](https://github.com/Codemaster-AR/GPR_Hub_Outdated/blob/main/README.md)
 
 
-### Code:
-[https://github.com/Codemaster-AR/GPR_Hub/releases/tag/v3.0.0](https://github.com/Codemaster-AR/GPR_Hub/releases/tag/v3.0.0)
+### App (unix):
+[https://github.com/Codemaster-AR/GPR-Hub-Python/releases](https://github.com/Codemaster-AR/GPR-Hub-Python/releases)
 
 ### Credits:
 [https://geotechru.com/archaeology-applications-for-ground-penetrating-radar-gpr/](https://geotechru.com/archaeology-applications-for-ground-penetrating-radar-gpr/)
