@@ -12,5 +12,8 @@
 ### Credits:
 [https://geotechru.com/archaeology-applications-for-ground-penetrating-radar-gpr/](https://geotechru.com/archaeology-applications-for-ground-penetrating-radar-gpr/)
 
-### Home page: 
+### Team page: 
 [https://github.com/Codemaster-AR/mystery-miners](https://github.com/Codemaster-AR/mystery-miners)
+
+### Website:
+[codemaster-ar.github.io/GPR-Hub](codemaster-ar.github.io/GPR-Hub)
